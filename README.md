@@ -1,3 +1,5 @@
+[Slides]([url](https://flor14.github.io/reproducibility_slides_en/binder_reproducible_environments.html#23))
+
 ### RStudio IDE URL 💻
 
 You should call the binderized project using this template link
